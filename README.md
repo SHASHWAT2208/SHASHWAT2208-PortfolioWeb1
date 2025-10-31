@@ -1,17 +1,14 @@
-# Iris Classification
+# Portfolio Website
 
-Decision Tree classifier on the classic Iris dataset. Saves a scatter plot (`iris_scatter.png`).
+Simple responsive static portfolio website for Shashwat Kushwaha.
 
-## How to run
-```bash
-pip install -r requirements.txt
-python iris_classification.py
-```
+## Files
+- index.html
+- style.css
+- script.js
 
-## Requirements
-- scikit-learn
-- matplotlib
-- numpy
+## Usage
+Open `index.html` in your browser.
 
 ## Author
 Shashwat Kushwaha - officialmnnit@gmail.com
